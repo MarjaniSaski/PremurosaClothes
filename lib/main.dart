@@ -92,7 +92,7 @@ class MyApp extends StatelessWidget {
         '/admin_messages': (context) => const AdminMessagesPage(),
 
         // User routes
-        '/home_page': (context) => const HomePage(),
+        '/home_page': (context) => HomePage(),
         '/category': (context) {
           final args =
               ModalRoute.of(context)?.settings.arguments
