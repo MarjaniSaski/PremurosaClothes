@@ -1,0 +1,60 @@
+name: premurosa_app
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.1.0
+  cupertino_icons: ^1.0.8
+  image_picker: ^1.0.4
+  intl: ^0.20.2
+  awesome_dialog: ^3.1.0
+  fl_chart: ^0.65.0 
+  http: ^1.1.0
+  shared_preferences: ^2.2.2
+  universal_html: ^2.2.4
+  path_provider: ^2.1.1     
+  path: ^1.8.3
+  image_picker_web: ^3.0.0
+  mime: ^2.0.0
+  dotted_border: ^2.0.0
+  http_parser: ^4.1.2
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+  
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/profile.png
+    - assets/images/jml.baju.png
+    - assets/images/jml.poin.png
+    - assets/images/logoPremurosa.png
+    - assets/images/jne.png
+    - assets/images/jnt.png
+    - assets/images/sicepat.png
+    - assets/images/wahana.png
+    - assets/images/floral_dress.jpg
+    - assets/images/unisex_shirt.jpg
+    - assets/images/cargo_jeans.jpg
+    - assets/images/logoPremurosa.png
+    - assets/images/Pink floral.png
+    - assets/images/promo.png
+    - assets/images/blue_shirt.png
+    - assets/images/midi_dress.png
+    - assets/images/pink_sweater.png
+    - assets/images/white_shirt.png
+    - assets/images/denim_jacket.png
+    - assets/images/white_formal.jpg
+    - assets/images/logo2.png
